@@ -9,6 +9,7 @@ Build amazing apps with the world’s best image and video recognition API.
 2. Press **Create a New Application** button
 3. Copy and save your `client_id and` and `client_secret`
 4. Press **Generate Access Token** button or use [getAccessToken](#getAccessToken) method.
+
 ## ClarifaiV2.analyzeImageGeneral
 The General model contains a wide range of tags across many different topics. In most cases, tags returned from the general model will sufficiently recognize what's inside your image.
 
