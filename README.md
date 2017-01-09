@@ -1,4 +1,4 @@
-# ClarifaiV2 Package
+# ClarifaiPublicModels Package
 Build amazing apps with the world’s best image and video recognition API.
 * Domain: clarifai.com
 * Credentials: clientId, clientSecret
