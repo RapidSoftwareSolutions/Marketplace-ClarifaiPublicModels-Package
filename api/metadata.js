@@ -1,7 +1,7 @@
 module.exports.do = function(req, res){
 res.status(200).send({
-  "package": "ClarifaiV2",
-  "tagline": "ClarifaiV2 API Package",
+  "package": "ClarifaiPublicModels",
+  "tagline": "ClarifaiPublicModels API Package",
   "keywords": [
     "AI",
     "API",
@@ -19,7 +19,7 @@ res.status(200).send({
   ],
   "description": "Build amazing apps with the world’s best image and video recognition API.",
   "image": "https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAAkRAAAAJDc4ZDU2MjRmLWI2N2MtNGI3YS05NDhiLWVjMmU4N2IzOGE3OA.png",
-  "repo": "https://github.com/RapidSoftwareSolutions/Marketplace-ClarifaiV2-Package",
+  "repo": "https://github.com/RapidSoftwareSolutions/Marketplace-ClarifaiPublicModels-Package",
   "accounts": {
     "domain": "clarifai.com",
     "credentials": [
