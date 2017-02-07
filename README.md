@@ -1,5 +1,7 @@
+[![](https://scdn.rapidapi.com/RapidAPI_banner.png)](https://rapidapi.com/package/ClarifaiPublicModels/functions?utm_source=RapidAPIGitHub_ClarifaiPublicFunctions&utm_medium=button&utm_content=RapidAPI_GitHub)
+
 # ClarifaiPublicModels Package
-Build amazing apps with the world’s best image and video recognition API.
+Identify and tag objects in images with Clarifai's models (Wedding, Image Color, Faces, Age/Gender/Ethnicity))/
 * Domain: clarifai.com
 * Credentials: clientId, clientSecret
 
